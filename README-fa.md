@@ -1,6 +1,8 @@
 🌍
 *[Čeština](README-cs.md) ∙ [Deutsch](README-de.md) ∙ [Ελληνικά](README-el.md) ∙ [English](README.md) ∙ [Español](README-es.md) ∙ [Français](README-fr.md) ∙ [Indonesia](README-id.md) ∙ [Italiano](README-it.md) ∙ [日本語](README-ja.md) ∙ [한국어](README-ko.md) ∙ [polski](README-pl.md) ∙ [Português](README-pt.md) ∙ [Română](README-ro.md) ∙ [Русский](README-ru.md) ∙ [Slovenščina](README-sl.md) ∙ [Українська](README-uk.md) ∙ [简体中文](README-zh.md) ∙ [繁體中文](README-zh-Hant.md) ∙ [فارسی](README-fa.md)*
 
+<div dir="rtl">
+
 
 # هنر خط فرمان
 
@@ -51,3 +53,5 @@
 
 
 - حداقل یک ویرایشگر متنی را به خوبی یاد بگیرید. ویرایشگر 'nano' یکی از ساده ترین ها برای ویرایش اولیه (باز کردن، ویرایش، ذخیره، جستجو) است. با این حال، برای کاربر قدرتمند در ترمینال متنی، هیچ جایگزینی برای Vim («vi»)، ویرایشگر سخت‌آموز اما قابل احترام، سریع و با امکانات کامل وجود ندارد. بسیاری از مردم همچنین از Emacs کلاسیک استفاده می کنند، به ویژه برای کارهای ویرایش بزرگتر. (البته، هر توسعه دهنده نرم افزار مدرنی که بر روی یک پروژه گسترده کار می کند، بعید است که فقط از یک ویرایشگر مبتنی بر متن خالص استفاده کند و همچنین باید با IDE ها و ابزارهای گرافیکی مدرن آشنا باشد).
+
+</div>
